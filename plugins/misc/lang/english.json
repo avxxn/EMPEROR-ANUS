@@ -24,7 +24,7 @@
             "PLUGIN_NOT_FOUND": "Maybe you have installed such a plugin, or maybe not. But it sure isn't right now.",
             "DELETED": "✅ Plugin {} successfully deleted. Restart to make changes"
         },
-        "group": {
+        "المجموعة": {
             "KICK_DESC": "Kicks participants from group.",
             "NOT_ADMIN": "I'm not an admin",
             "ISADMIN": "Participant is an admin",
@@ -72,7 +72,7 @@
             "MINUTE": "minute",
             "SECOND": "second"
         },
-        "media": {
+        "وسائل الإعلام": {
             "TRIM_DESC": "Trims audio or video with given seconds",
             "TRIM_USE": ".trim 60,120",
             "TRIM_NEED": "*Wrong format!:*.\n *.trim 10,30*",
@@ -83,7 +83,7 @@
             "AVMIX_AUDIO_ADDED": "*Added audio to merge*",
             "AVMIX_VIDEO_ADDED": "*Added video to merge*"
         },
-        "heroku": {
+        "هيروكو": {
             "RESTART_DESC": "Restarts the bot",
             "RESTART_MSG": "*Restarting..*",
             "SHUTDOWN_DESC": "Shutdown Bot",
@@ -104,7 +104,7 @@
             "ALL_VARS":"All your config vars",
             "NOT_FOUND": "No results found for this key"
         },
-        "filters": {
+        "المرشحات": {
             "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
             "NO_FILTER": "No filters found in this chat",
             "FILTERS": "🔎 Your filters in this chat:",
@@ -115,7 +115,7 @@
             "ALREADY_NO_FILTER": "❌ There is already no filter like this!",
             "DELETED": "✅ The filter was successfully deleted!"
         },
-        "greetings": {
+        "تحيه طبيه": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
             "NOT_SET_WELCOME": "You don't set the welcome message yet.!*\n**To set:** _.welcome your welcome message",
             "WELCOME_ALREADY_SETTED": "✅ Welcome message already set!*\n*Message:* ",
@@ -129,7 +129,7 @@
             "GOODBYE_DELETED": "✅ Goodbye message has been deleted successfully!",
             "GOODBYE_SETTED": "✅ Goodbye message has been setted successfully!"
         },
-        "memes": {
+        "الميمات": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "Reply to a photo!",
             "DOWNLOADING": "Making meme..."
@@ -141,7 +141,7 @@
             "ERROR": "I couldn't read this :/_\n*Error:*_{}",
             "RESULT": "Language:* _{}_\n*Here is what I read:* _{}"
         },
-        "profile": {
+        "بروفايل": {
             "KICKME_DESC": "Leaves from group.",
             "KICKME": "Leaving from the group...",
             "PP_DESC": "Sets profile photo.",
@@ -154,7 +154,7 @@
             "NEED_USER": "Give me a user!",
             "JID_DESC": "Gives user's JID."
         },
-        "scrapers": {
+        "كاشطات": {
             "TRANSLATE_DESC": "It translates replied msg with Google Translate",
             "TRANSLATE_USAGE": ".trt en ml (From English to Malayalam)",
             "NEED_REPLY": "Please reply to any message!",
@@ -188,7 +188,7 @@
             "YTS_RESULTS": "Search results from YouTube",
             "YTV_DESC": "Select & download yt videos in available quality formats"
         },
-        "sticker": {
+        "ملصق": {
             "STICKER_DESC": "Creates stickers. Reply to media.",
             "NEED_REPLY": "Reply to a photo or short video"
         },
@@ -196,7 +196,7 @@
             "ALIVE_DESC": "Checks if the bot is working or not",
             "SYSD_DESC": "Shows the system properties."
         },
-        "tagall": {
+        "منشن": {
             "TAGALL_DESC": "Mentions everyone in the group.",
             "ADMIN": "I'm not an admin"
         },
